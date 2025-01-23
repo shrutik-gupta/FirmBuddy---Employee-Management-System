@@ -18,8 +18,6 @@ FirmBuddy is a minimalistic Emplooyee Management System designed to help organiz
 -Backend: Node.js, Express.js, MongoDB.<br/>
 Other: Git for version control<br/>
 
-#### some more screenshots:<br/>
-
 ### Prerequisites
 -Node.js and npm: Ensure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from https://nodejs.org/en 
 
