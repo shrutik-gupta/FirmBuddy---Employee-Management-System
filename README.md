@@ -1,3 +1,6 @@
+
+![Screenshot 2025-01-23 231418](https://github.com/user-attachments/assets/ec67d151-5949-4d3a-b545-dd08761b81be)
+
 ## FirmBuddy - An Employee Management System<br/>
 Overview-<br/>
 FirmBuddy is a minimalistic Emplooyee Management System designed to help organization keep track of their workforce. It provide a clean and intuitive interface for admin to manage their emplooyees (salaries, departments, leaves). This README file provides an overview of the project, its features, installation instructions, and usage.
